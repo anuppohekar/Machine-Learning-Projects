@@ -7,3 +7,5 @@ LogisticRegression.ipynb - Use of Logistic Regression to solve the diabetes data
 SVM_TitanicDataSet.ipynb - SVM (Support Vector Machine) is use to solve classification and regression problem
 
 Movie_rating-small.ipynb - Recommendation System 
+
+NaiveBayesTheorem.ipynb - Appying Naive bayes theorem to Diabetes dataset, In Naive bayse theorem eachone of the features contribute independently for final output.
