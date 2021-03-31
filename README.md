@@ -10,3 +10,5 @@ Movie_rating-small.ipynb - Recommendation System
 
 NaiveBayesTheorem.ipynb - Appying Naive bayes theorem to Diabetes dataset, In Naive bayse theorem eachone of the features contribute independently for final output.
                           It is used when all the columns are categorical columns 
+                          
+SVM_TitanicDataSet.ipynb - Using SVM(Support Vector Machine) for Tiatanic dataset svclassifier = SVC(kernel = "rbf"). Different SVM algorithm use different tyoe of                            kernal functions, e.g linear, nonlinear, polynomial etc.                           
