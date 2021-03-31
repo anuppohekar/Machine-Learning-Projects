@@ -9,3 +9,4 @@ SVM_TitanicDataSet.ipynb - SVM (Support Vector Machine) is use to solve classifi
 Movie_rating-small.ipynb - Recommendation System 
 
 NaiveBayesTheorem.ipynb - Appying Naive bayes theorem to Diabetes dataset, In Naive bayse theorem eachone of the features contribute independently for final output.
+                          It is used when all the columns are categorical columns 
