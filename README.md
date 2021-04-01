@@ -13,3 +13,5 @@ NaiveBayesTheorem.ipynb -- Appying Naive bayes theorem to Diabetes dataset, In N
 SVM_TitanicDataSet.ipynb -- Using SVM(Support Vector Machine) for Tiatanic dataset svclassifier = SVC(kernel = "rbf"). Different SVM algorithm use different tyoe of                            kernal functions, e.g linear, nonlinear, polynomial etc.   
 
 KNNalgorithm.ipynb -- KNN(K Nearest Neighbor) implementation with Riding Mowers dataset, using KNeighborClassifier() algorithm. The biggest use of KNN is for search application. 
+
+BostonDecisionTreeDis.ipynb -- Predicting Boston house price with regression using Decision Tree Classifier 
