@@ -17,3 +17,5 @@ KNNalgorithm.ipynb -- KNN(K Nearest Neighbor) implementation with Riding Mowers 
 BostonDecisionTreeDis.ipynb -- Predicting Boston house price with regression using Decision Tree Classifier 
 
 PCA.ipynb -- PCA(Principle Component Analysis) implementation using IRIS dataset, which identify the combination of attributes that account for the most variance in the data
+
+Movie_rating-small.ipynb -- Building a recommendation system to identify movies similar to Forrest Gump(1994).
